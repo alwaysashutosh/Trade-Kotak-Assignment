@@ -81,7 +81,3 @@ DEMO_MODE=true  # Set to 'false' ONLY when ready for real money
 - **Graceful Shutdown:** Handles `Ctrl+C` to cleanly stop data streams and close sessions.
 
 ---
-
-## ⚠️ Disclaimer
-
-*Algorithmic trading involves significant risk. This software is provided "as is" without warranty of any kind. Please test thoroughly in DEMO mode before trading with real capital. The authors are not responsible for any financial losses incurred.*
